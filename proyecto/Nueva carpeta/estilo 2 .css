@@ -1,0 +1,166 @@
+.fondo{
+background:rgb(255, 255, 255) ;
+}
+.logo{
+  max-width: 9.1%;
+position: relative;
+bottom: 5.8em;
+z-index: 2;
+}
+.introdusion{
+  font-size: 2.5em;
+  text-align:  left ;
+  position:relative;
+  bottom:10.4em ;
+  left:480;
+}
+.registrate{
+  font-size:1.5em ;
+  position:relative;
+  background-image: linear-gradient(#ff0000,#2b00ff);
+  bottom:2.0em ;
+  left:10em;
+}
+p{
+  color: rgb(0, 0, 0);
+  font-family: 'Be Vietnam Pro', sans-serif;
+  font-size: 1.2em;
+}
+.TECNOMATX{
+max-height: 0px;
+position:relative;
+top: em;
+bottom:8.4em ;
+right:em ;
+left:7.5em;
+}
+.yo{
+  position:relative;
+  top:5em;
+}
+.logoo{
+  position:relative;
+  top:em ;
+  bottom:em ;
+  right:0.9em ;
+  left: em;
+}
+.ecavesado ul{
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing:border-box ;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  list-style: none;
+}
+.ecavesado{
+  margin: 0%;
+    padding: 0%;
+    border: 0%;
+    height:4em ;
+    width: 100%;
+    background:linear-gradient(rgba(2, 67, 247,50%),rgba(0, 255, 242, 50%));
+    position: relative;
+    bottom: 0.6em;
+     right: 0.em;
+      z-index: 2;
+}
+.menus >li{
+  position: relative;
+  display:inline-block;
+}
+.menus > li > a{
+display: inline-block;
+padding: 15px 20px;
+color: #ff0000;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-decoration: none;
+font-size: 1.5em;
+}
+.menus li a:hover{
+color: #d400ff;
+transition: all 0.3s;
+}
+.sudmenu{
+position: absolute;
+background: linear-gradient(rgba(2, 67, 247,50%),rgba(0, 255, 242,59%));
+width: 150px;
+visibility: hidden;
+opacity: 0;
+transition: opacity 0.5s;
+border-radius: 30em;
+top: 4em;
+}
+.sudmenu li a {
+padding: 15px;
+color: #ff0000;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-decoration: none;
+font-size: 1.5em;
+}
+.menus li:hover .sudmenu{
+visibility: visible;
+opacity: 1;
+}
+.menus{
+text-align: center;
+}
+.que_es{
+position: relative;
+}
+
+.logo{
+  max-width: 9%;
+  position: relative;
+  bottom: 5.7em;
+  z-index: 2; 
+   }
+   .texa {
+     position:relative;
+     bottom: 12em;
+     left:33em;
+   }
+   .lerta{
+    font-size: 1em;
+    width:25em;
+    text-align: center;
+    color: rgb(0, 0, 0);
+   }
+ .boton_eviar{
+   background: rgb(73, 149, 184);
+   width: 150px;
+   height: 30px;
+   padding:0px ;
+   margin: 0%;
+   font-size: 20px;
+   font-family:  Courier;
+   position: relative;
+   top: 3.1em;
+   border-radius: 25px;
+ }
+.cuess{
+  border-radius:20px ;
+  height:25px;
+  width: 300px;
+}
+.eee{
+  float: left;
+  margin: 40px 40px;
+}
+.boton_eviar:hover{
+  background: rgb(50, 133, 172);
+
+}
+.boton_eviar:active{
+  background: rgb(23, 92, 124);
+ 
+}
+.Fecha_de_nasimiento{
+  position: relative;
+  top: 0.3em;
+}
+.fff{
+  height: 26px;
+}
+
+

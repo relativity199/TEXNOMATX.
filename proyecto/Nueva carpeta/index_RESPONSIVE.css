@@ -1,0 +1,1231 @@
+/* Galaxy Fold */
+@media screen and (max-width:280px )and (min-width:100px ) {
+    .q{
+        background-color: aquamarine;
+        border: 0%;
+        padding: 0%;
+    }
+    .videofondo{
+        margin: 0em;
+        padding: 0em;
+        width: 280px;
+        position: relative;
+        right: 0.5em;
+    }
+    .ecavesado{
+        max-width: 360px;
+        position: relative;
+        top: 12em;
+        background: rgba(0, 0, 0, 0);
+    }
+    .menus{
+        font-size: 10px;
+    }
+    .sudmenu{
+        padding: 0%;
+        margin: 0%;
+        font-size: 0px;
+        background: rgba(0, 0, 0, 0);
+    }
+    .titulo 
+    {
+       font-size: 30px;
+       position: relative;
+        bottom: 8em;
+    }
+    .titulo2{
+        font-size: 30px;
+        position: relative;
+        bottom: 9em;
+    }
+    .loogo{
+        margin: 0%;
+        padding: 0%;
+        position: relative;
+        max-width: 8.5em;
+        bottom: 22em;
+        left: 25%;
+    }
+.broque1{
+    padding: 0%;
+    margin: 0%;
+    position: relative;
+    bottom: 19em;
+}
+   .sud_titulos{
+       text-align: center;
+       border-radius: 50px;
+       background-color:rgba(0, 255, 255, 0.364);
+       font-size: 30px;
+       position: relative;
+       top: 3.5em;
+       left: 0.2em;
+   }
+   .parafouno1{
+       text-align: center;
+       width: 100%;
+       position: relative;
+       left: 0%;
+   }
+   .video1{
+       padding: 0%;
+       margin: 0%;
+       border-radius:3px ;
+       max-width:80%;
+       position: relative;
+       right: 0%;
+       left: 12.5%;
+       top:4em;
+       z-index:-2;
+   }
+   .broque2{
+       padding: 0%;
+       margin: 0%;
+    position: relative;
+    top: 0em;
+}
+.sud_titulos3{
+    border-radius: 50px;
+    background-color:rgba(0, 255, 255, 0.364);
+    position: relative;
+    bottom: 4.5em;
+    bottom:5em;
+}
+.parafodos2{
+    width: 100%;
+    text-align:center;
+    position: relative;
+    bottom:15.5em ;
+}
+.video2{
+    max-width: 80%;
+    border-radius:3px ;
+    left: 10%;
+    bottom:5em;
+}
+.broque3{
+    position: relative;
+    top: 0em;
+}
+.titulos4{
+    font-size: 3em;
+    border-radius: 50px;
+    background-color:rgba(0, 255, 255, 0.364);
+  position: relative;
+  bottom: 5em;  
+  bottom:7em;
+}
+.parafotre3{
+    width: 100%;
+    text-align: center;
+    position: relative;
+    left: 0em;
+    bottom: 17em;
+}
+.video3{
+    border-radius: 3px;
+    max-width: 85%;
+    position: relative;
+    right: 0%;
+    left: 9%;
+    bottom: 10em;
+}
+}
+/* iPhone 4 y 4S */
+/* iPhone 5 y 5S */
+@media screen and (max-width:320px )and (min-width:281px ) {
+    .q{
+        background-color: aquamarine;
+        border: 0%;
+        padding: 0%;
+    }
+    .videofondo{
+        margin: 0em;
+        padding: 0em;
+        width: 106%;
+        position: relative;
+        right: 0.5em;
+    }
+    .ecavesado{
+        max-width: 360px;
+        position: relative;
+        top: 12em;
+        background: rgba(0, 0, 0, 0);
+    }
+    .menus{
+        font-size: 10px;
+    }
+    .sudmenu{
+        padding: 0%;
+        margin: 0%;
+        font-size: 0px;
+        background: rgba(0, 0, 0, 0);
+    }
+    .titulo 
+    {
+       font-size: 30px;
+       position: relative;
+        bottom: 9em;
+    }
+    .titulo2{
+        font-size: 30px;
+        position: relative;
+        bottom: 9.5em;
+    }
+    .loogo{
+        margin: 0%;
+        padding: 0%;
+        position: relative;
+        max-width: 8.5em;
+        bottom: 22.5em;
+        left: 30%;
+    }
+.broque1{
+    padding: 0%;
+    margin: 0%;
+    position: relative;
+    bottom: 19em;
+}
+   .sud_titulos{
+       text-align: center;
+       border-radius: 50px;
+       background-color:rgba(0, 255, 255, 0.364);
+       font-size: 30px;
+       position: relative;
+       top: 3em;
+       left: 0.2em;
+   }
+   .parafouno1{
+       text-align: center;
+       width: 100%;
+       position: relative;
+       left: 0%;
+   }
+   .video1{
+       padding: 0%;
+       margin: 0%;
+       border-radius:3px ;
+       max-width:80%;
+       position: relative;
+       right: 0%;
+       left: 12.5%;
+       top:6em;
+       z-index:-2;
+   }
+   .broque2{
+       padding: 0%;
+       margin: 0%;
+    position: relative;
+    top: 0em;
+}
+.sud_titulos3{
+    border-radius: 50px;
+    background-color:rgba(0, 255, 255, 0.364);
+    position: relative;
+    bottom: 5em;
+}
+.parafodos2{
+    width: 100%;
+    text-align:center;
+    position: relative;
+    bottom:15.5em ;
+}
+.video2{
+    max-width: 80%;
+    border-radius:3px ;
+    left: 10%;
+    bottom:5em;
+}
+.broque3{
+    position: relative;
+    top: 0em;
+}
+.titulos4{
+    border-radius: 50px;
+    background-color:rgba(0, 255, 255, 0.364);
+  position: relative;
+  bottom: 6em;  
+}
+.parafotre3{
+    width: 100%;
+    text-align: center;
+    position: relative;
+    left: 0em;
+    bottom: 17em;
+}
+.video3{
+    border-radius: 3px;
+    max-width: 85%;
+    position: relative;
+    right: 0%;
+    left: 1.5em;
+    bottom: 10em;
+}
+}
+/* Nexus 5 */
+/* Galaxy S3, S4, S5 */
+/* HTC One */
+/* Moto G4 */
+@media screen and (max-width:360px )and (min-width:321px ) {    
+    .q{
+        background-color: aquamarine;
+        border: 0%;
+        padding: 0%;
+    }
+    .videofondo{
+        margin: 0em;
+        padding: 0em;
+        width: 104.6%;
+        position: relative;
+        right: 0.5em;
+    }
+    .ecavesado{
+      position: relative;
+      top: 10em;
+    }
+    .menus{
+        font-size: 10px;
+    }
+   
+    .titulo 
+    {
+       font-size: 30px;
+       position: relative;
+        bottom: 9em;
+    }
+    .titulo2{
+        font-size: 30px;
+        position: relative;
+        bottom: 9.5em;
+    }
+    .loogo{
+        margin: 0%;
+        padding: 0%;
+        position: relative;
+        max-width: 8.5em;
+        bottom: 22.5em;
+        left: 30%;
+    }
+.broque1{
+    padding: 0%;
+    margin: 0%;
+    position: relative;
+    bottom: 19em;
+}
+   .sud_titulos{
+       text-align: center;
+       border-radius: 50px;
+       background-color:rgba(0, 255, 255, 0.364);
+       font-size: 30px;
+       position: relative;
+       top: 3em;
+       left: 0.2em;
+   }
+   .parafouno1{
+       text-align: center;
+       width: 100%;
+       position: relative;
+       left: 0%;
+   }
+   .video1{
+       padding: 0%;
+       margin: 0%;
+       border-radius:3px ;
+       max-width:22.5em;
+       position: relative;
+       right: 0em;
+       top:6em;
+       z-index:-2;
+   }
+   .broque2{
+       padding: 0%;
+       margin: 0%;
+    position: relative;
+    top: 0em;
+}
+.sud_titulos3{
+    border-radius: 50px;
+    background-color:rgba(0, 255, 255, 0.364);
+    position: relative;
+    bottom: 4.5em;
+}
+.parafodos2{
+    width: 100%;
+    text-align:center;
+    position: relative;
+    bottom:15.5em ;
+}
+.video2{
+    max-width: 24em;
+    border-radius:3px ;
+    left: -2em;
+    top: 8em;
+}
+.broque3{
+    position: relative;
+    top: 0em;
+}
+.titulos4{
+    border-radius: 50px;
+    background-color:rgba(0, 255, 255, 0.364);
+  position: relative;
+  bottom: 6em;  
+}
+.parafotre3{
+    width: 100%;
+    text-align: center;
+    position: relative;
+    left: 0em;
+    bottom: 20em;
+}
+.video3{
+    margin: 0%;
+    padding: 0%;
+    border-radius: 3px;
+    max-width: 25em;
+    position: relative;
+    right: 1.1em;
+    top: 7em;
+}
+
+}
+/* iPhone 6 7 8 */
+/* iPhone x */
+/*   */
+@media screen and (max-width:375px )and (min-width:361px ) {
+    .q{
+        background-color: aquamarine;
+        border: 0%;
+        padding: 0%;
+    }
+    .videofondo{
+        margin: 0em;
+        padding: 0em;
+        width: 104.6%;
+        position: relative;
+        right: 0.5em;
+    }
+    .ecavesado{
+        max-width: 360px;
+        position: relative;
+        top: 12em;
+        background: rgba(0, 0, 0, 0);
+    }
+    .menus{
+        font-size: 10px;
+    }
+    .sudmenu{
+        padding: 0%;
+        margin: 0%;
+        font-size: 0px;
+        background: rgba(0, 0, 0, 0);
+    }
+    .titulo 
+    {
+       font-size: 30px;
+       position: relative;
+        bottom: 9em;
+    }
+    .titulo2{
+        font-size: 30px;
+        position: relative;
+        bottom: 9.5em;
+    }
+    .loogo{
+        margin: 0%;
+        padding: 0%;
+        position: relative;
+        max-width: 8.5em;
+        bottom: 22.5em;
+        left: 30%;
+    }
+.broque1{
+    padding: 0%;
+    margin: 0%;
+    position: relative;
+    bottom: 19em;
+}
+   .sud_titulos{
+       text-align: center;
+       border-radius: 50px;
+       background-color:rgba(0, 255, 255, 0.364);
+       font-size: 30px;
+       position: relative;
+       top: 3em;
+       left: 0.2em;
+   }
+   .parafouno1{
+       text-align: center;
+       width: 100%;
+       position: relative;
+       left: 0.2em;
+   }
+   .video1{
+       padding: 0%;
+       margin: 0%;
+       border-radius:3px ;
+       max-width:80%;
+       position: relative;
+       right: 0%;
+       left: 2.7em;
+       top:6em;
+       z-index:-2;
+   }
+   .broque2{
+       padding: 0%;
+       margin: 0%;
+    position: relative;
+    top: 0em;
+}
+.sud_titulos3{
+    border-radius: 50px;
+    background-color:rgba(0, 255, 255, 0.364);
+    position: relative;
+    bottom: 4.5em;
+}
+.parafodos2{
+    width: 100%;
+    text-align:center;
+    position: relative;
+    bottom:15.5em ;
+}
+.video2{
+    max-width: 80%;
+    border-radius:3px ;
+    left: 10%;
+    bottom:5em;
+}
+.broque3{
+    position: relative;
+    top: 0em;
+}
+.titulos4{
+    border-radius: 50px;
+    background-color:rgba(0, 255, 255, 0.364);
+  position: relative;
+  bottom: 5em;  
+}
+.parafotre3{
+    width: 100%;
+    text-align: center;
+    position: relative;
+    left: 0em;
+    bottom: 17em;
+}
+.video3{
+    border-radius: 3px;
+    max-width: 85%;
+    position: relative;
+    right: 0%;
+    left: 1.5em;
+    bottom: 13em;
+}
+}
+/* Nexus 4 */
+@media screen and (max-width:384px )and (min-width:376px ) {
+    .q{
+        background-color: aquamarine;
+        border: 0%;
+        padding: 0%;
+    }
+    .videofondo{
+        margin: 0em;
+        padding: 0em;
+        width: 106.6%;
+        position: relative;
+        right: 0.5em;
+    }
+    .ecavesado{
+        max-width: 360px;
+        position: relative;
+        top: 12em;
+        background: rgba(0, 0, 0, 0);
+    }
+    .menus{
+        font-size: 10px;
+    }
+    .sudmenu{
+        padding: 0%;
+        margin: 0%;
+        font-size: 0px;
+        background: rgba(0, 0, 0, 0);
+    }
+    .titulo 
+    {
+       font-size: 30px;
+       position: relative;
+        bottom: 9em;
+    }
+    .titulo2{
+        font-size: 30px;
+        position: relative;
+        bottom: 9.5em;
+    }
+    .loogo{
+        margin: 0%;
+        padding: 0%;
+        position: relative;
+        max-width: 8.5em;
+        bottom: 22.5em;
+        left: 30%;
+    }
+.broque1{
+    padding: 0%;
+    margin: 0%;
+    position: relative;
+    bottom: 19em;
+}
+   .sud_titulos{
+       text-align: center;
+       border-radius: 50px;
+       background-color:rgba(0, 255, 255, 0.364);
+       font-size: 30px;
+       position: relative;
+       top: 3em;
+       left: 0.2em;
+   }
+   .parafouno1{
+       text-align: center;
+       width: 100%;
+       position: relative;
+       left: 0%;
+   }
+   .video1{
+       padding: 0%;
+       margin: 0%;
+       border-radius:3px ;
+       max-width:80%;
+       position: relative;
+       right: 0%;
+       left: 12.5%;
+       top:4em;
+       z-index:-2;
+   }
+   .broque2{
+       padding: 0%;
+       margin: 0%;
+    position: relative;
+    top: 0em;
+}
+.sud_titulos3{
+    border-radius: 50px;
+    background-color:rgba(0, 255, 255, 0.364);
+    position: relative;
+    bottom: 4.5em;
+}
+.parafodos2{
+    width: 100%;
+    text-align:center;
+    position: relative;
+    bottom:15.5em ;
+}
+.video2{
+    max-width: 80%;
+    border-radius:3px ;
+    left: 10%;
+    bottom:5em;
+}
+.broque3{
+    position: relative;
+    top: 0em;
+}
+.titulos4{
+    border-radius: 50px;
+    background-color:rgba(0, 255, 255, 0.364);
+  position: relative;
+  bottom: 5em;  
+}
+.parafotre3{
+    width: 100%;
+    text-align: center;
+    position: relative;
+    left: 0em;
+    bottom: 17em;
+}
+.video3{
+    border-radius: 3px;
+    max-width: 85%;
+    position: relative;
+    right: 0%;
+    left: 9%;
+    bottom: 10em;
+}
+}
+/* pixel 2 */
+/* pixel 2 XL */
+@media screen and (max-width:411px )and (min-width:385px ) {
+    .q{
+        background-color: aquamarine;
+        border: 0%;
+        padding: 0%;
+    }
+    .videofondo{
+        margin: 0em;
+        padding: 0em;
+        width: 114.1%;
+        position: relative;
+        right: 0.5em;
+    }
+    .ecavesado{
+        max-width: 360px;
+        position: relative;
+        top: 12em;
+        background: rgba(0, 0, 0, 0);
+    }
+    .menus{
+        font-size: 10px;
+        position: relative;
+        top: 4em;
+    }
+    .sudmenu{
+        padding: 0%;
+        margin: 0%;
+        font-size: 0px;
+        background: rgba(0, 0, 0, 0);
+    }
+    .titulo 
+    {
+       font-size: 45px;
+       position: relative;
+        bottom: 7em;
+        left: 0em;
+    }
+    .titulo2{
+        font-size: 45px;
+        position: relative;
+        bottom: 8em;
+        left:0;
+    }
+    .loogo{
+        margin: 0%;
+        padding: 0%;
+        max-width: 8.5em;
+        position: relative;
+        bottom: 28em;
+        left: 8em;
+    }
+.broque1{
+    padding: 0%;
+    margin: 0%;
+    position: relative;
+    bottom: 28em;
+    right: 1em;
+}
+   .sud_titulos{
+       text-align: center;
+       border-radius: 50px;
+       background-color:rgba(0, 255, 255, 0.364);
+       font-size: 36px;
+       position: relative;
+       top: 3em;
+       left: 0.5em;
+   }
+   .parafouno1{
+       text-align: center;
+       width: 100%;
+       position: relative;
+       left: 0.5em;
+   }
+   .video1{
+       padding: 0%;
+       margin: 0%;
+       border-radius:3px ;
+       max-width:80%;
+       position: relative;
+       right: 0%;
+       left: 3.5em;
+       top:6em;
+       z-index:-2;
+   }
+   .broque2{
+       padding: 0%;
+       margin: 0%;
+    position: relative;
+    bottom: 10em;
+    right: 1em;
+}
+.sud_titulos3{
+    border-radius: 50px;
+    background-color:rgba(0, 255, 255, 0.364);
+    position: relative;
+    bottom: 4.5em;
+    left: 0.3em;
+}
+.parafodos2{
+    width: 100%;
+    text-align:center;
+    position: relative;
+    bottom:15.5em ;
+    left: 0.5em;
+}
+.video2{
+    max-width: 80%;
+    border-radius:3px ;
+    left: 3em;
+    bottom:5em;
+}
+.broque3{
+    position: relative;
+    bottom: 8em;
+    right: 1em;
+}
+.titulos4{
+    border-radius: 50px;
+    background-color:rgba(0, 255, 255, 0.364);
+  position: relative;
+  bottom: 5.5em;
+  left: 0.2em;  
+}
+.parafotre3{
+    width: 100%;
+    text-align: center;
+    position: relative;
+    left: 0.5em;
+    bottom: 17.5em;
+}
+.video3{
+    border-radius: 3px;
+    max-width: 85%;
+    position: relative;
+    right: 0%;
+    left: 2.5em;
+    bottom: 13em;
+}
+}
+/* iPhone 6+ */
+@media screen and (max-width:414px )and (min-width:412px ) {    
+    .q{
+        background-color: aquamarine;
+        border: 0%;
+        padding: 0%;
+    }
+    .videofondo{
+        margin: 0em;
+        padding: 0em;
+        width: 115%;
+        position: relative;
+        right: 0.5em;
+    }
+    .ecavesado{
+        max-width: 360px;
+        position: relative;
+        top: 14em;
+        background: rgba(0, 0, 0, 0);
+    }
+    .menus{
+        font-size: 10px;
+        position:relative;
+        top: 1em;
+    }
+    .sudmenu{
+        padding: 0%;
+        margin: 0%;
+        font-size: 0px;
+        background: rgba(0, 0, 0, 0);
+    }
+    .titulo 
+    {
+       font-size: 30px;
+       position: relative;
+        bottom: 9em;
+        left: 0.5em;
+    }
+    .titulo2{
+        font-size: 30px;
+        position: relative;
+        bottom: 9.5em;
+        left: 0.5em;
+    }
+    .loogo{
+        margin: 0%;
+        padding: 0%;
+        position: relative;
+        max-width: 8.5em;
+        bottom: 22.5em;
+        left: 35%;
+    }
+.broque1{
+    padding: 0%;
+    margin: 0%;
+    position: relative;
+    bottom: 24em;
+    right: 1.5em;
+}
+   .sud_titulos{
+       text-align: center;
+       border-radius: 50px;
+       background-color:rgba(0, 255, 255, 0.364);
+       font-size: 37px;
+       position: relative;
+       top: 3em;
+       left: 0.6em;
+   }
+   .parafouno1{
+       text-align: center;
+       width: 100%;
+       position: relative;
+       left: 1em;
+   }
+   .video1{
+       padding: 0%;
+       margin: 0%;
+       border-radius:3px ;
+       max-width:80%;
+       position: relative;
+       left: 17%;
+       top:6em;
+       z-index:-2;
+   }
+   .broque2{
+       padding: 0%;
+       margin: 0%;
+    position: relative;
+    right: 0.5em;
+    bottom: 5em;
+}
+.sud_titulos3{
+    border-radius: 50px;
+    background-color:rgba(0, 255, 255, 0.364);
+    position: relative;
+    bottom: 4.5em;
+    left: 0.2em;
+}
+.parafodos2{
+    width: 100%;
+    text-align:center;
+    bottom:16em ;
+    position: relative;
+    left: 0.5em;    
+}
+.video2{
+    padding: 0em;
+    margin: 0em;
+    max-width: 20em;
+    border-radius:3px ;
+    position: relative;
+    bottom:5em;
+    left:3em;
+}
+.broque3{
+    position: relative;
+    top: 0em;
+    right: 0.7em;
+}
+.titulos4{
+    border-radius: 50px;
+    background-color:rgba(0, 255, 255, 0.364);
+  position: relative;
+  bottom: 6.5em;  
+  left: 0.2em;
+}
+.parafotre3{
+    width: 100%;
+    text-align: center;
+    position: relative;
+    left: 0.4em;
+    bottom: 20em;
+}
+.video3{
+    border-radius: 3px;
+    max-width: 85%;
+    position: relative;
+    right: 0%;
+    left: 2.5em;
+    bottom: 18em;
+}
+}
+
+/* Galaxy Tab 2 y 3 */
+@media screen and (max-width:600px )and (min-width:415px ) {
+    .q{
+        background-color: aquamarine;
+        border: 0%;
+        padding: 0%;
+    }
+    .videofondo{
+        margin: 0em;
+        padding: 0em;
+        width: 102.7%;
+        position: relative;
+        right: 0.5em;
+    }
+    .ecavesado{
+        max-width: 360px;
+        position: relative;
+        top: 20em;
+        background: rgba(0, 0, 0, 0);
+    }
+    .menus{
+        font-size: 10px;
+        position:relative;
+        top: 2em;
+    }
+    .sudmenu{
+        padding: 0%;
+        margin: 0%;
+        font-size: 0px;
+        background: rgba(0, 0, 0, 0);
+    }
+    .titulo 
+    {
+       font-size: 65px;
+       position: relative;
+        bottom: 6.5em;
+        left: 0em;
+    }
+    .titulo2{
+        font-size: 65px;
+        position: relative;
+        bottom: 7.4em;
+        left: 0em;
+    }
+    .loogo{
+        margin: 0%;
+        padding: 0%;
+        position: relative;
+        max-width: 13em;
+        bottom: 38.5em;
+        left: 12em;
+    }
+.broque1{
+    padding: 0%;
+    margin: 0%;
+    position: relative;
+    bottom: 48em;
+    left: -2em;
+}
+   .sud_titulos{
+       text-align: center;
+       border-radius: 50px;
+       background-color:rgba(0, 255, 255, 0.364);
+       font-size: 50px;
+       width: 11em;
+       position: relative;
+       top: 4em;
+       left: 0.9em;
+   }
+   .parafouno1{
+    text-align: center;
+    width: 13em;
+    font-size: 3em;
+    position: relative;
+    left: 0.2em;
+   }
+   .video1{
+       padding: 0%;
+       margin: 0%;
+       border-radius:3px ;
+       max-width:38em;
+       position: relative;
+       left: 1em;
+       top:10em;
+       z-index:-2;
+   }
+   .broque2{
+       padding: 0%;
+       margin: 0%;
+    position: relative;
+    bottom: 23em;
+}
+.sud_titulos3{
+    border-radius: 50px;
+    background-color:rgba(0, 255, 255, 0.364);
+    font-size: 70px;
+    position: relative;
+    bottom: 4em;
+}
+.parafodos2{
+    width: 14em;
+    text-align:center;
+    font-size: 3em;
+    bottom: 15em ;
+    position: relative;
+    right: 0.9em;
+}
+.video2{
+    max-width: 600px;
+    border-radius:3px ;
+    position: relative;
+    bottom:2em;
+    left:-0.5em;
+}
+.broque3{
+    position: relative;
+    bottom: 26em;
+}
+.titulos4{
+    font-size: 5em;
+    width: 6em;
+    border-radius: 50px;
+    background-color:rgba(0, 255, 255, 0.364);
+  position: relative;
+  bottom: 4em;  
+  left: 0.7em;
+}
+.parafotre3{
+    font-size: 3em;
+    width: 13em;
+    text-align: center;
+    position: relative;
+    left: -0.4em;
+    bottom: 16em;
+}
+.video3{
+    padding: 0%;
+    margin: 0%;
+    border-radius: 3px;
+    max-width:600px ;
+    position: relative;
+    left: -0.5em;
+    bottom: 9em;
+} 
+}
+/* falta */
+/* iPhone 4 (4, 4S) */
+@media screen and (max-width:640px ) and (min-width:601px){
+    .q{
+        background-color: aquamarine;
+        border: 0%;
+        padding: 0%;
+    }
+    .videofondo{
+        margin: 0em;
+        padding: 0em;
+        width: 102.5%;
+        position: relative;
+        right: 0.5em;
+        bottom: 6.8em;
+    }
+    .ecavesado{
+      top: 22em;
+      height: 100px;
+      border-radius:px ;
+    }
+    .menus{
+      font-size:15px ;
+      padding: 0%;
+      margin: 0%;
+    }
+    .titulo 
+    {
+       font-size: 65px;
+       position: relative;
+        bottom: 7.5em;
+        left: 0em;
+    }
+    .titulo2{
+        font-size: 65px;
+        position: relative;
+        bottom: 8.4em;
+        left: 0em;
+    }
+    .loogo{
+        margin: 0%;
+        padding: 0%;
+        position: relative;
+        max-width: 13em;
+        bottom: 42em;
+        left: 14em;
+    }
+.broque1{
+    padding: 0%;
+    margin: 0%;
+    position: relative;
+    bottom: 48em;
+}
+   .sud_titulos{
+       text-align: center;
+       border-radius: 50px;
+       background-color:rgba(0, 255, 255, 0.364);
+       font-size: 50px;
+       width: 11em;
+       position: relative;
+       top: 4em;
+       left: 0.9em;
+   }
+   .parafouno1{
+    text-align: center;
+    width: 13em;
+    font-size: 3em;
+    position: relative;
+    left: 0.2em;
+   }
+   .video1{
+       padding: 0%;
+       margin: 0%;
+       border-radius:3px ;
+       max-width:40em;
+       position: relative;
+       left: 0em;
+       top:9em;
+       z-index:-2;
+   }
+   .broque2{
+       padding: 0%;
+       margin: 0%;
+    position: relative;
+    bottom: 23em;
+}
+.sud_titulos3{
+    border-radius: 50px;
+    background-color:rgba(0, 255, 255, 0.364);
+    font-size: 70px;
+    position: relative;
+    bottom: 4em;
+}
+.parafodos2{
+    width: 14em;
+    text-align:center;
+    font-size: 3em;
+    bottom: 15em ;
+    position: relative;
+    right: 0.2em;
+}
+.video2{
+    max-width: 40em;
+    border-radius:3px ;
+    position: relative;
+    top: 5em;
+    left:-0.5em;
+}
+.broque3{
+    position: relative;
+    bottom: 26em;
+}
+.titulos4{
+    font-size: 5em;
+    width: 6em;
+    border-radius: 50px;
+    background-color:rgba(0, 255, 255, 0.364);
+  position: relative;
+  bottom: 4em;  
+  left: 0.7em;
+}
+.parafotre3{
+    font-size: 3em;
+    width: 13em;
+    text-align: center;
+    position: relative;
+    left: 0em;
+    bottom: 16em;
+}
+.video3{
+    padding: 0%;
+    margin: 0%;
+    border-radius: 3px;
+    max-width:640px ;
+    position: relative;
+    left: -0.5em;
+    top: 16em;
+}  
+.logo{
+    position: relative;
+    max-width:7em ;
+    bottom: 6.4em;
+} 
+}
+/* falta */
+/* iPhone 5 (5c, 5s) */
+@media screen and (max-width:750) and (min-width:641){
+
+}
